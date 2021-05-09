@@ -2,6 +2,7 @@ version: '3.7'
 
 services:
   main:
+    command: tail -f /dev/null
     container_name: main
     build:
       context: .
