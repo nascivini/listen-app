@@ -12,7 +12,7 @@ CRUD API to Musics and Categories.
 $ sudo service postgresql stop
 ```
 
-- Then, enter project root folder and run:
+- Then, open project root folder and run:
 ```bash
 $ docker-compose up
 ```
