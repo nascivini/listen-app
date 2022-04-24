@@ -1,6 +1,6 @@
 ## Description
 
-CRUD API to Musics and Categories.
+CRUD API to Musics and Categories. 
 
 ## Running the app
 
